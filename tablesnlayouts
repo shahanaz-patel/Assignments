@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>9.html</title>
+	</head>
+	<body bgcolor="eeeb7b">
+		<h1>Account Details</h1>
+		<table border="2" width="100%" bordercolor="white" cellpadding="5" cellspacing="10" bgcolor="eeeb7b">
+  		<tr>
+    		<th>AccountNo</th>
+    		<th>Customer Name</th> 
+  		</tr>
+  		<tr>
+    		<td>1001</td>
+    		<td>Jack</td> 
+  		</tr>
+  		<tr>
+    		<td>1002</td>
+    		<td>Tom</td> 
+  		</tr>
+		</table>
+	</body>
+</html>
